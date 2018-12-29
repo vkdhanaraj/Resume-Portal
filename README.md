@@ -7,4 +7,4 @@ an application program to reduce the manual work and also save resources at the 
 
 # ER Diagram
 
-![alt text](https://raw.githubusercontent.com/vkdhanaraj/Resume-Portal/blob/master/ER-Diagram.png
+![alt text](https://raw.githubusercontent.com/vkdhanaraj/Resume-Portal/master/ER-Diagram.png
