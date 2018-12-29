@@ -5,5 +5,5 @@ providers can filter out the job seekers with respect to their skills, experienc
 other requirements according to the need of their company. The purpose of the project is to build
 an application program to reduce the manual work and also save resources at the same time.
 
-#ER Diagram
+# ER Diagram
 ![alt text](https://raw.githubusercontent.com/vkdhanaraj/Resume-Portal/master/ER-Diagram.png
