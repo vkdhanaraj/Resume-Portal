@@ -6,4 +6,4 @@ other requirements according to the need of their company. The purpose of the pr
 an application program to reduce the manual work and also save resources at the same time.
 
 # ER Diagram
-![alt text](https://raw.githubusercontent.com/vkdhanaraj/Resume-Portal/master/ER-Diagram.png
+![alt text](https://raw.githubusercontent.com/vkdhanaraj/Resume-Portal/blob/master/ER-Diagram.png
