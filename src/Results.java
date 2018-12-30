@@ -138,9 +138,13 @@ public class Results extends javax.swing.JFrame {
         DefaultTableModel model=(DefaultTableModel)table_results.getModel();
         
         int selectedRow=table_results.getSelectedRow();
-        String usn=model.getValueAt(selectedRow, 0).toString();
-        ViewResume vr = new ViewResume(usn);
-        vr.setVisible(true);
+        if(selectedRow<0)
+            JOptionPane.showMessageDialog(null, "No name selected!"); 
+        else{
+            String usn=model.getValueAt(selectedRow, 0).toString();
+            ViewResume vr = new ViewResume(usn);
+            vr.setVisible(true);
+        }
        // TODO add your handling code here:
     }//GEN-LAST:event_view_resumeActionPerformed
 
